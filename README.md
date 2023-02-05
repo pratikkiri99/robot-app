@@ -14,9 +14,10 @@ When you select the option 'PLACE',enter co-ordinates and direction to place a n
   Direction could be either 'NORTH', 'EAST', 'WEST', 'SOUTH'
 
 
-attaching the sample execution logs below
+Attaching the sample execution logs below
+==================================================================================
 
-C:\Users\prati\jdk17\jdk17\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=64443:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\intelij-workspace\robot-app\out\production\robot-app Main
+
 Enter value from the keywords given below 
  'PLACE' --> to place a new robot 
  'MOVE' --> to move robot in the existing direction 
